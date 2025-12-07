@@ -467,7 +467,7 @@ const Hero: React.FC = () => {
             </a>
 
             <a
-              href="https://wa.me/916351804604?text=Hello%20KridHyan%20Infotech%2C%20I%20need%20services"
+              href="https://wa.me/916351804604?text=Hello%20Krishyam%20Infotech%2C%20I%20need%20services"
               target="_blank"
               rel="noopener noreferrer"
               className="group px-8 py-4 bg-white border-2 border-[#ff002b] text-[#ff002b] rounded-full font-semibold text-lg hover:bg-gradient-to-r hover:from-[#ff002b] hover:to-[#ff4d6d] hover:text-white hover:border-transparent transition-all duration-300 transform hover:scale-105 flex items-center gap-2"
