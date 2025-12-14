@@ -232,7 +232,7 @@ const Hero: React.FC = () => {
 
           <h1 className="text-xl md:text-2xl lg:text-3xl font-bold leading-tight px-4">
             <span className="text-gray-500">
-              Web Development • AI Chatbots • AI Images • Creative Branding
+              Web Development • AI Chatbots • AI Images • Creative Branding Nikunj
               <br className="hidden sm:block" />
               Crafted with smart tech. Delivered with human warmth.
             </span>
